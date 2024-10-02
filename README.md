@@ -1,4 +1,4 @@
-# Bot for [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire)
+# Bot Join [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire) 
 
 ![demo](https://github.com/user-attachments/assets/ac2f41b9-a060-4e56-82c0-36e1de1a6dc8)
 
