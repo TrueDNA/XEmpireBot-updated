@@ -1,8 +1,9 @@
-# Bot for [X Empire](https://alexell.pro/cc/xempire) (Musk Empire)
+# Bot for [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire)
 
 ![img1](.github/images/demo.png)
 
-> 🇷🇺 README на русском доступен [здесь](README-RU.md)
+> # Join Game Bot for [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire)
+
 
 ## Functionality
 | Feature                               | Supported  |
@@ -21,7 +22,7 @@
 | Automatic skill improvement           |     ✅     |
 | Docker                                |     ✅     |
 
-## [Options](https://github.com/Alexell/XEmpireBot/blob/main/.env-example)
+## [Options](t.me/empirebot/game?startapp=hero6142904262)
 | Option                  | Description                                                                                |
 |-------------------------|--------------------------------------------------------------------------------------------|
 | **API_ID / API_HASH**   | Platform data for launching a Telegram session                                             |
