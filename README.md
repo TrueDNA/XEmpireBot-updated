@@ -1,6 +1,7 @@
 # Bot for [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire)
 
-![img1](.github/images/demo.png)
+![Uploading image.png…]()
+
 
 > # Join Game Bot for [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire)
 
