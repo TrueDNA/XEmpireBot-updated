@@ -1,9 +1,9 @@
-# Bot Join [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire) 
+# Bot Join [X Empire](https://t.me/empirebot/game?startapp=hero6142904262) (Musk Empire) 
 
 ![demo](https://github.com/user-attachments/assets/ac2f41b9-a060-4e56-82c0-36e1de1a6dc8)
 
 
-> # Join Game Bot for [X Empire](t.me/empirebot/game?startapp=hero6142904262) (Musk Empire)
+> # Join Game Bot for [X Empire](https://t.me/empirebot/game?startapp=hero6142904262) (Musk Empire)
 
 
 ## Functionality
@@ -23,7 +23,7 @@
 | Automatic skill improvement           |     ✅     |
 | Docker                                |     ✅     |
 
-## [Options](t.me/empirebot/game?startapp=hero6142904262)
+## [Options](https://t.me/empirebot/game?startapp=hero6142904262)
 | Option                  | Description                                                                                |
 |-------------------------|--------------------------------------------------------------------------------------------|
 | **API_ID / API_HASH**   | Platform data for launching a Telegram session                                             |
@@ -45,7 +45,7 @@
 | **ERRORS_BEFORE_STOP**  | The number of failed requests after which the bot will stop                                |
 | **USE_PROXY_FROM_FILE** | Whether to use proxy from the `proxies.txt` file (True / False)                            |
 
-You can obtain the **API_ID** and **API_HASH** after creating an application at [my.telegram.org/apps](https://my.telegram.org/apps)
+You can obtain the **API_ID** and **API_HASH** after creating an application at [my.telegram.org/apps](https://t.me/empirebot/game?startapp=hero6142904262)
 
 **PvP negotiations** are disabled by default. Enable at your own risk. Upgrade your negotiation and ethics skills to win in case of a tie. League names for the **PVP_LEAGUE** parameter: `bronze`, `silver`, `gold`, `platina`, `diamond`. You can also specify `auto` in the **PVP_LEAGUE** parameter, and the bot will automatically select the lowest available league for you. The default strategy is randomly selected for each negotiation. If you wish, you can specify your own strategy, which will be used **in all** negotiations. Strategy names for the **PVP_STRATEGY** parameter: `aggressive`, `flexible`, `protective`. The **PVP_COUNT** parameter determines the number of negotiations the bot will conduct in one cycle.
 
